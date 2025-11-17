@@ -43,7 +43,7 @@ Your default (**Home**) component must contain the following elements (each with
 - **Entity Relationship Diagram** - The ERD diagram of your specific scenario (you may copy the one from your specific scenario description).
 - **Site Styling Decision** - Indicate what [site-wide styling](#layout-and-styling) you are using in your website.
 
-Create a logo for your project. Add Credits and attributions if you are using another person's logo as your base. Add the Crdits and attributions to the Home page.  
+Create a logo for your project. Add Credits and attributions if you are using another person's logo as your base. Add the Credits and attributions to the Home page.  
 
 ## Component: Query – Search/Filter & Display Results
 
