@@ -1,4 +1,6 @@
-# StarTED Project
+# StarTED Project 
+
+Jackson Ly
 
 Follow the [specifications](./Specs/ReadMe.md) given in this starter kit. Any updates to the specifications, including due dates, will be posted to this repository by your instructor.
 
